@@ -46,13 +46,13 @@ The program displayed the test video with real-time pose labels. The video can b
 
 ### **Output:**
 - **For pushup:**
-- ![Screenshot 2024-11-14 060410](https://github.com/user-attachments/assets/2ed7ad4e-8299-4303-81bc-d1fdcdf289d8)
+![Screenshot 2024-11-14 061452](https://github.com/user-attachments/assets/6edd78fa-dcf5-4b08-81ed-15b27935d8d4)
 
 - **For crying:**
   ![Screenshot 2024-11-14 050456](https://github.com/user-attachments/assets/4397a3fa-f09a-49eb-9a10-af0856e30a71)
 
 
-The following is a link to the project’s **GitHub repository**:  
+The following is a link to the project’s **GitHub repository**: https://github.com/DibyajyotiSwain/IADAI-1000068-Dibyajyoti_Swain 
 
 
  **Future Scope and Enhancements:**
