@@ -14,8 +14,8 @@ csv_writer.writerow(headers)
 
 2. **Normalizing the Data:**
 Once the raw landmark data was collected, I normalized the dataset by referencing the position of the **left hip** (landmark 23) to ensure that the model would focus on relative body movements rather than the absolute position of the individual.
-for i in range(33):
-    df[f'x_{i}'] -= df['x_23']  # Normalize by left hip x-coordinate
+
+for i in range(33):  df[f'x_{i}'] -= df['x_23']  # Normalize by left hip x-coordinate
 
 3. **Splitting the Dataset:**
 The normalized data was then split into **training** and **testing** sets using the `train_test_split()` method. This approach allowed the model to learn from one subset of the data and test its accuracy on a different subset.
