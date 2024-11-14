@@ -2,7 +2,7 @@
 For my pose detection project, I began by conducting comprehensive research on how to approach the task. After gaining a solid understanding of the underlying concepts, I proceeded to write the Python code using **Visual Studio Code (VS Code)**. I ensured that I had installed the necessary extensions for **Jupyter Notebook** and **Python** in VS Code, and then used the command prompt to download the essential Python libraries, including **numpy**, **pandas**, **opencv-python**, **tensorflow**, and **keras**.
 
 ### **Dataset Creation and Model Development**
-To build the dataset, I downloaded 12 videos from **YouTube**, representing 3 distinct gestures: **run**, **pushup**, and **cry** (with 4 videos per gesture: 3 for training and 1 for testing). After downloading, I converted these videos into **AVI** format for easier processing. From these videos, I generated a dataset, normalized it, split the data for training and testing, and then trained the model. The final model achieved **99.71% accuracy** during testing.
+To build the dataset, I downloaded 12 videos from **YouTube**, representing 3 distinct gestures: **run**, **pushup**, and **cry** (with 4 videos per gesture: 3 for training and 1 for testing). After downloading, I converted these videos into **AVI** format for easier processing. From these videos, I generated a dataset, normalized it, split the data for training and testing, and then trained the model. The final model achieved **99% accuracy** during testing.
 
 ### **Project Workflow**
 
